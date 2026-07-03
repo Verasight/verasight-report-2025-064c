@@ -1,0 +1,436 @@
+question_id,option_id,option_label,is_missing
+2025-064c_q1,1,"Conducted a search on a search engine (e.g., Google, Bing)",false
+2025-064c_q1,2,"Asked a question to an AI chatbot (e.g., ChatGPT, Microsoft Copilot, Google Gemini)",false
+2025-064c_q1,3,Traded cryptocurrency,false
+2025-064c_q1,4,Rode in a self-driving car,false
+2025-064c_q1,5,Used a virtual reality headset,false
+2025-064c_q1,6,Watched television,false
+2025-064c_q1,7,Read a newspaper,false
+2025-064c_q1,8,None of the above,false
+2025-064c_q10,1,ChatGPT,false
+2025-064c_q10,2,None of the above,false
+2025-064c_q10,3,Microsoft Copilot,false
+2025-064c_q10,4,Google Gemini,false
+2025-064c_q10,5,Claude AI,false
+2025-064c_q10,6,Grok,false
+2025-064c_q10,7,Deepseek,false
+2025-064c_q10,8,Perplexity,false
+2025-064c_q10,9,Llama by Meta,false
+2025-064c_q11,1,Personal organization,false
+2025-064c_q11,2,Managing your calendar and scheduling,false
+2025-064c_q11,3,"Entertainment (e.g., storytelling, games, music)",false
+2025-064c_q11,4,"Writing or editing personal messages, emails, or social media posts",false
+2025-064c_q11,5,"Getting recommendations (e.g., movies, restaurants, gifts)",false
+2025-064c_q11,6,Planning a trip,false
+2025-064c_q11,7,Getting advice on health and fitness,false
+2025-064c_q11,8,Other (please specify):,false
+2025-064c_q11,9,I do not use AI for my personal life,false
+2025-064c_q12,1,Yes (please describe):,false
+2025-064c_q12,2,No,false
+2025-064c_q13,1,I used an AI tool for mental-health or emotional-support purposes in the past 30 days,false
+2025-064c_q13,2,"I have used an AI for that before, but not in the past 30 days",false
+2025-064c_q13,3,I’ve never used an AI for mental-health or emotional-support purposes,false
+2025-064c_q13,4,Prefer not to say,false
+2025-064c_q14,1,"Coping strategies (e.g., reframing, breathing prompts)",false
+2025-064c_q14,2,Mood tracking or journaling prompts,false
+2025-064c_q14,3,Talking through feelings (“therapy-like” conversation),false
+2025-064c_q14,4,Relationship/family advice,false
+2025-064c_q14,5,"Stress, anxiety, or sleep support",false
+2025-064c_q14,6,Crisis information or safety resources,false
+2025-064c_q14,7,Scheduling or finding human therapy,false
+2025-064c_q14,8,Other (please specify),false
+2025-064c_q14,9,I haven't used AI for these purposes,false
+2025-064c_q15,1,Much more comfortable with AI,false
+2025-064c_q15,2,Somewhat more comfortable with AI,false
+2025-064c_q15,3,About the same,false
+2025-064c_q15,4,Somewhat less comfortable with AI,false
+2025-064c_q15,5,Much less comfortable with AI,false
+2025-064c_q15,6,Don’t know/Not sure,false
+2025-064c_q16,1,Very likely,false
+2025-064c_q16,2,Somewhat likely,false
+2025-064c_q16,3,Not very likely,false
+2025-064c_q16,4,Not at all likely,false
+2025-064c_q16,5,Not sure,false
+2025-064c_q17,1,Very beneficial,false
+2025-064c_q17,2,Somewhat beneficial,false
+2025-064c_q17,3,Neither beneficial nor harmful,false
+2025-064c_q17,4,Somewhat harmful,false
+2025-064c_q17,5,Very harmful,false
+2025-064c_q17,6,I haven’t used AI for this,false
+2025-064c_q18,1,Not at all,false
+2025-064c_q18,2,A little,false
+2025-064c_q18,3,Somewhat,false
+2025-064c_q18,4,Very,false
+2025-064c_q18,5,Extremely,false
+2025-064c_q18,6,I don’t use an AI assistant,false
+2025-064c_q19,1,"Yes, I routinely see a mental health professional (therapist, psychiatrist, etc)",false
+2025-064c_q19,2,"Yes, I have a strong support network of friends and family",false
+2025-064c_q19,3,"No, I do not have anyone else to talk to",false
+2025-064c_q19,4,I don’t use an AI chatbot for mental health purposes,false
+2025-064c_q20,1,Chatted with an AI “just to keep it company”,false
+2025-064c_q20,2,Given your AI a name or nickname,false
+2025-064c_q20,3,Told the AI something you haven’t told people close to you,false
+2025-064c_q20,4,"Felt jealous or protective about your AI (e.g., dislike when others use “your” bot)",false
+2025-064c_q20,5,Described an AI as a friend/partner when talking to others,false
+2025-064c_q20,6,Purchased or subscribed to a companion AI product,false
+2025-064c_q20,7,None of the above,false
+2025-064c_q21,1,Not upset,false
+2025-064c_q21,2,Slightly upset,false
+2025-064c_q21,3,Moderately upset,false
+2025-064c_q21,4,Very upset,false
+2025-064c_q21,5,Devastated,false
+2025-064c_q21,6,Not sure / I don’t use an AI chatbot for mental health purposes,false
+2025-064c_q22_1,1,Definitely yes,false
+2025-064c_q22_1,2,Probably yes,false
+2025-064c_q22_1,3,Probably no,false
+2025-064c_q22_1,4,Definitely no,false
+2025-064c_q22_1,5,Not sure,false
+2025-064c_q22_2,1,Definitely yes,false
+2025-064c_q22_2,2,Probably yes,false
+2025-064c_q22_2,3,Probably no,false
+2025-064c_q22_2,4,Definitely no,false
+2025-064c_q22_2,5,Not sure,false
+2025-064c_q22_3,1,Definitely yes,false
+2025-064c_q22_3,2,Probably yes,false
+2025-064c_q22_3,3,Probably no,false
+2025-064c_q22_3,4,Definitely no,false
+2025-064c_q22_3,5,Not sure,false
+2025-064c_q22_4,1,Definitely yes,false
+2025-064c_q22_4,2,Probably yes,false
+2025-064c_q22_4,3,Probably no,false
+2025-064c_q22_4,4,Definitely no,false
+2025-064c_q22_4,5,Not sure,false
+2025-064c_q22_5,1,Definitely yes,false
+2025-064c_q22_5,2,Probably yes,false
+2025-064c_q22_5,3,Probably no,false
+2025-064c_q22_5,4,Definitely no,false
+2025-064c_q22_5,5,Not sure,false
+2025-064c_q23,1,"No AI should have legal rights, regardless of capability",false
+2025-064c_q23,2,"Some very advanced AIs should have limited rights (e.g., protections, obligations)",false
+2025-064c_q23,3,Advanced AIs should eventually have rights similar to humans,false
+2025-064c_q23,4,Don’t know/not sure,false
+2025-064c_q24,1,Multiple times per day,false
+2025-064c_q24,2,About once a day,false
+2025-064c_q24,3,A few times a week,false
+2025-064c_q24,4,About once a week,false
+2025-064c_q24,5,A few times per month,false
+2025-064c_q24,6,Less than once a month,false
+2025-064c_q24,7,Never,false
+2025-064c_q25_1,1,Often,false
+2025-064c_q25_1,2,Sometimes,false
+2025-064c_q25_1,3,Rarely,false
+2025-064c_q25_1,4,Never,false
+2025-064c_q25_2,1,Often,false
+2025-064c_q25_2,2,Sometimes,false
+2025-064c_q25_2,3,Rarely,false
+2025-064c_q25_2,4,Never,false
+2025-064c_q25_3,1,Often,false
+2025-064c_q25_3,2,Sometimes,false
+2025-064c_q25_3,3,Rarely,false
+2025-064c_q25_3,4,Never,false
+2025-064c_q25_4,1,Often,false
+2025-064c_q25_4,2,Sometimes,false
+2025-064c_q25_4,3,Rarely,false
+2025-064c_q25_4,4,Never,false
+2025-064c_q25_5,1,Often,false
+2025-064c_q25_5,2,Sometimes,false
+2025-064c_q25_5,3,Rarely,false
+2025-064c_q25_5,4,Never,false
+2025-064c_q26,1,Daily,false
+2025-064c_q26,2,A few times per week,false
+2025-064c_q26,3,About once a week,false
+2025-064c_q26,4,A few times a month,false
+2025-064c_q26,5,Less than once a month,false
+2025-064c_q26,6,Never,false
+2025-064c_q27,1,Less than $5,false
+2025-064c_q27,2,$5 - 10,false
+2025-064c_q27,3,$11 - 20,false
+2025-064c_q27,4,More than $20,false
+2025-064c_q28,1,Starbucks,false
+2025-064c_q28,2,None of the above,false
+2025-064c_q28,3,Dunkin',false
+2025-064c_q28,4,Peet's Coffee,false
+2025-064c_q28,5,Tim Hortons,false
+2025-064c_q28,6,Folgers,false
+2025-064c_q28,7,Maxwell House,false
+2025-064c_q28,8,Nespresso,false
+2025-064c_q28,9,Lavazza,false
+2025-064c_q28,10,Illy,false
+2025-064c_q29,1,Starbucks,false
+2025-064c_q29,3,None of the above,false
+2025-064c_q29,4,Dunkin',false
+2025-064c_q29,5,Peet's Coffee,false
+2025-064c_q29,6,Tim Hortons,false
+2025-064c_q29,7,Folgers,false
+2025-064c_q29,8,Maxwell House,false
+2025-064c_q29,9,Nespresso,false
+2025-064c_q29,10,Lavazza,false
+2025-064c_q29,11,Illy,false
+2025-064c_q2_1,1,"Yes, use this",false
+2025-064c_q2_1,2,"No, don’t use this",false
+2025-064c_q2_10,1,"Yes, use this",false
+2025-064c_q2_10,2,"No, don’t use this",false
+2025-064c_q2_11,1,"Yes, use this",false
+2025-064c_q2_11,2,"No, don’t use this",false
+2025-064c_q2_2,1,"Yes, use this",false
+2025-064c_q2_2,2,"No, don’t use this",false
+2025-064c_q2_3,1,"Yes, use this",false
+2025-064c_q2_3,2,"No, don’t use this",false
+2025-064c_q2_4,1,"Yes, use this",false
+2025-064c_q2_4,2,"No, don’t use this",false
+2025-064c_q2_5,1,"Yes, use this",false
+2025-064c_q2_5,2,"No, don’t use this",false
+2025-064c_q2_6,1,"Yes, use this",false
+2025-064c_q2_6,2,"No, don’t use this",false
+2025-064c_q2_7,1,"Yes, use this",false
+2025-064c_q2_7,2,"No, don’t use this",false
+2025-064c_q2_8,1,"Yes, use this",false
+2025-064c_q2_8,2,"No, don’t use this",false
+2025-064c_q2_9,1,"Yes, use this",false
+2025-064c_q2_9,2,"No, don’t use this",false
+2025-064c_q3,1,Yes,false
+2025-064c_q3,2,No,false
+2025-064c_q30_1,0,Not at all likely 0,false
+2025-064c_q30_1,1,1,false
+2025-064c_q30_1,2,2,false
+2025-064c_q30_1,3,3,false
+2025-064c_q30_1,4,4,false
+2025-064c_q30_1,5,5,false
+2025-064c_q30_1,6,6,false
+2025-064c_q30_1,7,7,false
+2025-064c_q30_1,8,8,false
+2025-064c_q30_1,9,9,false
+2025-064c_q30_1,10,Extremely likely 10,false
+2025-064c_q30_2,0,Not at all likely 0,false
+2025-064c_q30_2,1,1,false
+2025-064c_q30_2,2,2,false
+2025-064c_q30_2,3,3,false
+2025-064c_q30_2,4,4,false
+2025-064c_q30_2,5,5,false
+2025-064c_q30_2,6,6,false
+2025-064c_q30_2,7,7,false
+2025-064c_q30_2,8,8,false
+2025-064c_q30_2,9,9,false
+2025-064c_q30_2,10,Extremely likely 10,false
+2025-064c_q30_3,0,Not at all likely 0,false
+2025-064c_q30_3,1,1,false
+2025-064c_q30_3,2,2,false
+2025-064c_q30_3,3,3,false
+2025-064c_q30_3,4,4,false
+2025-064c_q30_3,5,5,false
+2025-064c_q30_3,6,6,false
+2025-064c_q30_3,7,7,false
+2025-064c_q30_3,8,8,false
+2025-064c_q30_3,9,9,false
+2025-064c_q30_3,10,Extremely likely 10,false
+2025-064c_q30_4,0,Not at all likely 0,false
+2025-064c_q30_4,1,1,false
+2025-064c_q30_4,2,2,false
+2025-064c_q30_4,3,3,false
+2025-064c_q30_4,4,4,false
+2025-064c_q30_4,5,5,false
+2025-064c_q30_4,6,6,false
+2025-064c_q30_4,7,7,false
+2025-064c_q30_4,8,8,false
+2025-064c_q30_4,9,9,false
+2025-064c_q30_4,10,Extremely likely 10,false
+2025-064c_q30_5,0,Not at all likely 0,false
+2025-064c_q30_5,1,1,false
+2025-064c_q30_5,2,2,false
+2025-064c_q30_5,3,3,false
+2025-064c_q30_5,4,4,false
+2025-064c_q30_5,5,5,false
+2025-064c_q30_5,6,6,false
+2025-064c_q30_5,7,7,false
+2025-064c_q30_5,8,8,false
+2025-064c_q30_5,9,9,false
+2025-064c_q30_5,10,Extremely likely 10,false
+2025-064c_q30_6,0,Not at all likely 0,false
+2025-064c_q30_6,1,1,false
+2025-064c_q30_6,2,2,false
+2025-064c_q30_6,3,3,false
+2025-064c_q30_6,4,4,false
+2025-064c_q30_6,5,5,false
+2025-064c_q30_6,6,6,false
+2025-064c_q30_6,7,7,false
+2025-064c_q30_6,8,8,false
+2025-064c_q30_6,9,9,false
+2025-064c_q30_6,10,Extremely likely 10,false
+2025-064c_q30_7,0,Not at all likely 0,false
+2025-064c_q30_7,1,1,false
+2025-064c_q30_7,2,2,false
+2025-064c_q30_7,3,3,false
+2025-064c_q30_7,4,4,false
+2025-064c_q30_7,5,5,false
+2025-064c_q30_7,6,6,false
+2025-064c_q30_7,7,7,false
+2025-064c_q30_7,8,8,false
+2025-064c_q30_7,9,9,false
+2025-064c_q30_7,10,Extremely likely 10,false
+2025-064c_q30_8,0,Not at all likely 0,false
+2025-064c_q30_8,1,1,false
+2025-064c_q30_8,2,2,false
+2025-064c_q30_8,3,3,false
+2025-064c_q30_8,4,4,false
+2025-064c_q30_8,5,5,false
+2025-064c_q30_8,6,6,false
+2025-064c_q30_8,7,7,false
+2025-064c_q30_8,8,8,false
+2025-064c_q30_8,9,9,false
+2025-064c_q30_8,10,Extremely likely 10,false
+2025-064c_q30_9,0,Not at all likely 0,false
+2025-064c_q30_9,1,1,false
+2025-064c_q30_9,2,2,false
+2025-064c_q30_9,3,3,false
+2025-064c_q30_9,4,4,false
+2025-064c_q30_9,5,5,false
+2025-064c_q30_9,6,6,false
+2025-064c_q30_9,7,7,false
+2025-064c_q30_9,8,8,false
+2025-064c_q30_9,9,9,false
+2025-064c_q30_9,10,Extremely likely 10,false
+2025-064c_q31,1,Much lower,false
+2025-064c_q31,2,Somewhat lower,false
+2025-064c_q31,3,About the same,false
+2025-064c_q31,4,Somewhat higher,false
+2025-064c_q31,5,Much higher,false
+2025-064c_q31,6,Don't know/not sure,false
+2025-064c_q32_1,1,Most likely to try,false
+2025-064c_q32_1,2,Least likely to try,false
+2025-064c_q32_2,1,Most likely to try,false
+2025-064c_q32_2,2,Least likely to try,false
+2025-064c_q32_3,1,Most likely to try,false
+2025-064c_q32_3,2,Least likely to try,false
+2025-064c_q32_4,1,Most likely to try,false
+2025-064c_q32_4,2,Least likely to try,false
+2025-064c_q32_5,1,Most likely to try,false
+2025-064c_q32_5,2,Least likely to try,false
+2025-064c_q32_6,1,Most likely to try,false
+2025-064c_q32_6,2,Least likely to try,false
+2025-064c_q33,1,Strongly disagree,false
+2025-064c_q33,2,Somewhat disagree,false
+2025-064c_q33,3,Neither agree nor disagree,false
+2025-064c_q33,4,Somewhat agree,false
+2025-064c_q33,5,Strongly agree,false
+2025-064c_q33,6,Don't know/not sure,false
+2025-064c_q4,1,Several times a day,false
+2025-064c_q4,2,About once a day,false
+2025-064c_q4,3,A few times a week,false
+2025-064c_q4,4,Less than once a week,false
+2025-064c_q4,5,Less than once a month,false
+2025-064c_q4,6,Never,false
+2025-064c_q5,1,I don’t need it,false
+2025-064c_q5,2,I don’t know how to use it,false
+2025-064c_q5,3,I don’t trust it,false
+2025-064c_q5,4,It’s too expensive,false
+2025-064c_q5,5,I’m concerned about privacy,false
+2025-064c_q5,6,I’m concerned about impacts to the environment,false
+2025-064c_q5,7,I’m concerned about impacts to society,false
+2025-064c_q5,8,Other (please specify):,false
+2025-064c_q6_1,1,Strongly agree,false
+2025-064c_q6_1,2,Somewhat agree,false
+2025-064c_q6_1,3,Neutral,false
+2025-064c_q6_1,4,Somewhat disagree,false
+2025-064c_q6_1,5,Strongly disagree,false
+2025-064c_q6_2,1,Strongly agree,false
+2025-064c_q6_2,2,Somewhat agree,false
+2025-064c_q6_2,3,Neutral,false
+2025-064c_q6_2,4,Somewhat disagree,false
+2025-064c_q6_2,5,Strongly disagree,false
+2025-064c_q6_3,1,Strongly agree,false
+2025-064c_q6_3,2,Somewhat agree,false
+2025-064c_q6_3,3,Neutral,false
+2025-064c_q6_3,4,Somewhat disagree,false
+2025-064c_q6_3,5,Strongly disagree,false
+2025-064c_q6_4,1,Strongly agree,false
+2025-064c_q6_4,2,Somewhat agree,false
+2025-064c_q6_4,3,Neutral,false
+2025-064c_q6_4,4,Somewhat disagree,false
+2025-064c_q6_4,5,Strongly disagree,false
+2025-064c_q6_5,1,Strongly agree,false
+2025-064c_q6_5,2,Somewhat agree,false
+2025-064c_q6_5,3,Neutral,false
+2025-064c_q6_5,4,Somewhat disagree,false
+2025-064c_q6_5,5,Strongly disagree,false
+2025-064c_q6_6,1,Strongly agree,false
+2025-064c_q6_6,2,Somewhat agree,false
+2025-064c_q6_6,3,Neutral,false
+2025-064c_q6_6,4,Somewhat disagree,false
+2025-064c_q6_6,5,Strongly disagree,false
+2025-064c_q7_1,1,Extremely concerned,false
+2025-064c_q7_1,2,Very concerned,false
+2025-064c_q7_1,3,Somewhat concerned,false
+2025-064c_q7_1,4,Not at all concerned,false
+2025-064c_q7_1,5,I’m unfamiliar with this topic,false
+2025-064c_q7_10,1,Extremely concerned,false
+2025-064c_q7_10,2,Very concerned,false
+2025-064c_q7_10,3,Somewhat concerned,false
+2025-064c_q7_10,4,Not at all concerned,false
+2025-064c_q7_10,5,I’m unfamiliar with this topic,false
+2025-064c_q7_11,1,Extremely concerned,false
+2025-064c_q7_11,2,Very concerned,false
+2025-064c_q7_11,3,Somewhat concerned,false
+2025-064c_q7_11,4,Not at all concerned,false
+2025-064c_q7_11,5,I’m unfamiliar with this topic,false
+2025-064c_q7_12,1,Extremely concerned,false
+2025-064c_q7_12,2,Very concerned,false
+2025-064c_q7_12,3,Somewhat concerned,false
+2025-064c_q7_12,4,Not at all concerned,false
+2025-064c_q7_12,5,I’m unfamiliar with this topic,false
+2025-064c_q7_13,1,Extremely concerned,false
+2025-064c_q7_13,2,Very concerned,false
+2025-064c_q7_13,3,Somewhat concerned,false
+2025-064c_q7_13,4,Not at all concerned,false
+2025-064c_q7_13,5,I’m unfamiliar with this topic,false
+2025-064c_q7_2,1,Extremely concerned,false
+2025-064c_q7_2,2,Very concerned,false
+2025-064c_q7_2,3,Somewhat concerned,false
+2025-064c_q7_2,4,Not at all concerned,false
+2025-064c_q7_2,5,I’m unfamiliar with this topic,false
+2025-064c_q7_3,1,Extremely concerned,false
+2025-064c_q7_3,2,Very concerned,false
+2025-064c_q7_3,3,Somewhat concerned,false
+2025-064c_q7_3,4,Not at all concerned,false
+2025-064c_q7_3,5,I’m unfamiliar with this topic,false
+2025-064c_q7_4,1,Extremely concerned,false
+2025-064c_q7_4,2,Very concerned,false
+2025-064c_q7_4,3,Somewhat concerned,false
+2025-064c_q7_4,4,Not at all concerned,false
+2025-064c_q7_4,5,I’m unfamiliar with this topic,false
+2025-064c_q7_5,1,Extremely concerned,false
+2025-064c_q7_5,2,Very concerned,false
+2025-064c_q7_5,3,Somewhat concerned,false
+2025-064c_q7_5,4,Not at all concerned,false
+2025-064c_q7_5,5,I’m unfamiliar with this topic,false
+2025-064c_q7_6,1,Extremely concerned,false
+2025-064c_q7_6,2,Very concerned,false
+2025-064c_q7_6,3,Somewhat concerned,false
+2025-064c_q7_6,4,Not at all concerned,false
+2025-064c_q7_6,5,I’m unfamiliar with this topic,false
+2025-064c_q7_7,1,Extremely concerned,false
+2025-064c_q7_7,2,Very concerned,false
+2025-064c_q7_7,3,Somewhat concerned,false
+2025-064c_q7_7,4,Not at all concerned,false
+2025-064c_q7_7,5,I’m unfamiliar with this topic,false
+2025-064c_q7_8,1,Extremely concerned,false
+2025-064c_q7_8,2,Very concerned,false
+2025-064c_q7_8,3,Somewhat concerned,false
+2025-064c_q7_8,4,Not at all concerned,false
+2025-064c_q7_8,5,I’m unfamiliar with this topic,false
+2025-064c_q7_9,1,Extremely concerned,false
+2025-064c_q7_9,2,Very concerned,false
+2025-064c_q7_9,3,Somewhat concerned,false
+2025-064c_q7_9,4,Not at all concerned,false
+2025-064c_q7_9,5,I’m unfamiliar with this topic,false
+2025-064c_q8,1,More job opportunities,false
+2025-064c_q8,2,Fewer job opportunities,false
+2025-064c_q8,3,Will not make much difference,false
+2025-064c_q9,1,ChatGPT,false
+2025-064c_q9,2,Microsoft Copilot,false
+2025-064c_q9,3,Google Gemini,false
+2025-064c_q9,4,Claude AI,false
+2025-064c_q9,5,Grok,false
+2025-064c_q9,6,Deepseek,false
+2025-064c_q9,7,Perplexity,false
+2025-064c_q9,8,Llama by Meta,false
+2025-064c_q9,9,None of the above,false

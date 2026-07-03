@@ -1,0 +1,21 @@
+{
+  "report_id": "2025-064c",
+  "repo_name": "verasight-report-2025-064c",
+  "title": "AI Adoption Survey August 2025",
+  "wave_id": "2025-064c",
+  "survey_id": "2025-064c",
+  "source_report_url": "https://reports.verasight.io/reports/august-ai-survey-2025",
+  "data_library_url": "https://data.verasight.io/",
+  "field_dates": {
+    "start": "2025-09-03",
+    "end": "2025-09-08"
+  },
+  "population": "United States adults",
+  "mode": "online panel (Verasight Community)",
+  "sponsor": "Verasight",
+  "aapor_transparency": true,
+  "question_count": 81,
+  "modules": [
+    "AI Adoption Survey August 2025"
+  ]
+}
