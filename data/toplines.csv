@@ -1,32 +1,32 @@
 question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,unweighted_n,is_missing,source_url
-2025-064c_q1,1,"Conducted a search on a search engine (e.g., Google, Bing)",0.8676787630614385,86.77,1318.0040410903532,1357,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-activities-if-any-have-you-done-in-the-past-month
-2025-064c_q1,2,"Asked a question to an AI chatbot (e.g., ChatGPT, Microsoft Copilot, Google Gemini)",0.5871231187584449,58.71,891.8400173940968,941,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-activities-if-any-have-you-done-in-the-past-month
-2025-064c_q1,3,Traded cryptocurrency,0.11177030210014448,11.18,169.77908889012306,189,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-activities-if-any-have-you-done-in-the-past-month
-2025-064c_q1,4,Rode in a self-driving car,0.03812696426242512,3.81,57.91485871462499,56,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-activities-if-any-have-you-done-in-the-past-month
-2025-064c_q1,5,Used a virtual reality headset,0.07452382830958797,7.45,113.20169520226654,141,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-activities-if-any-have-you-done-in-the-past-month
-2025-064c_q1,6,Watched television,0.8973105578678254,89.73,1363.0147374012558,1396,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-activities-if-any-have-you-done-in-the-past-month
-2025-064c_q1,7,Read a newspaper,0.29673486475212135,29.67,450.7402595584819,520,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-activities-if-any-have-you-done-in-the-past-month
-2025-064c_q1,8,None of the above,0.0146241218749957,1.46,22.21404112811894,12,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-activities-if-any-have-you-done-in-the-past-month
-2025-064c_q10,1,ChatGPT,0.46487152629309725,46.49,665.9526335168164,725,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-ai-tools-have-you-used-in-the-last-month
-2025-064c_q10,2,None of the above,0.2876451656633274,28.76,412.0666566080414,376,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-ai-tools-have-you-used-in-the-last-month
-2025-064c_q10,3,Microsoft Copilot,0.18240630944402697,18.24,261.3065229289713,301,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-ai-tools-have-you-used-in-the-last-month
-2025-064c_q10,4,Google Gemini,0.3739311226898976,37.39,535.6757766924017,569,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-ai-tools-have-you-used-in-the-last-month
-2025-064c_q10,5,Claude AI,0.03263961093853453,3.26,46.757939843742406,56,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-ai-tools-have-you-used-in-the-last-month
-2025-064c_q10,6,Grok,0.06892219937415163,6.89,98.73463437734516,119,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-ai-tools-have-you-used-in-the-last-month
-2025-064c_q10,7,Deepseek,0.02522662981708706,2.52,36.13845893166382,36,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-ai-tools-have-you-used-in-the-last-month
-2025-064c_q10,8,Perplexity,0.03152378569113569,3.15,45.15946215685284,60,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-ai-tools-have-you-used-in-the-last-month
-2025-064c_q10,9,Llama by Meta,0.02118841373033635,2.12,30.35350441073226,42,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-ai-tools-have-you-used-in-the-last-month
-2025-064c_q11,1,Personal organization,0.29922830740334566,29.92,282.1460750241412,308,false,https://reports.verasight.io/reports/august-ai-survey-2025#when-it-comes-to-your-personal-life-what-types-of-tasks-do-you-use-ai-for
-2025-064c_q11,2,Managing your calendar and scheduling,0.20163962672962785,20.16,190.12850002326118,233,false,https://reports.verasight.io/reports/august-ai-survey-2025#when-it-comes-to-your-personal-life-what-types-of-tasks-do-you-use-ai-for
-2025-064c_q11,3,"Entertainment (e.g., storytelling, games, music)",0.30011526915108044,30.01,282.982402235265,321,false,https://reports.verasight.io/reports/august-ai-survey-2025#when-it-comes-to-your-personal-life-what-types-of-tasks-do-you-use-ai-for
-2025-064c_q11,4,"Writing or editing personal messages, emails, or social media posts",0.453826111814732,45.38,427.91825848012,511,false,https://reports.verasight.io/reports/august-ai-survey-2025#when-it-comes-to-your-personal-life-what-types-of-tasks-do-you-use-ai-for
-2025-064c_q11,5,"Getting recommendations (e.g., movies, restaurants, gifts)",0.3979641326983502,39.8,375.2453068882699,431,false,https://reports.verasight.io/reports/august-ai-survey-2025#when-it-comes-to-your-personal-life-what-types-of-tasks-do-you-use-ai-for
-2025-064c_q11,6,Planning a trip,0.22716181790335474,22.72,214.19369000535815,245,false,https://reports.verasight.io/reports/august-ai-survey-2025#when-it-comes-to-your-personal-life-what-types-of-tasks-do-you-use-ai-for
-2025-064c_q11,7,Getting advice on health and fitness,0.34698841401623887,34.7,327.17967074407505,384,false,https://reports.verasight.io/reports/august-ai-survey-2025#when-it-comes-to-your-personal-life-what-types-of-tasks-do-you-use-ai-for
-2025-064c_q11,8,Other (please specify):,0.16827517951030677,16.83,158.66874974103803,147,false,https://reports.verasight.io/reports/august-ai-survey-2025#when-it-comes-to-your-personal-life-what-types-of-tasks-do-you-use-ai-for
-2025-064c_q11,9,I do not use AI for my personal life,0.06656142668043695,6.66,62.761593142248486,59,false,https://reports.verasight.io/reports/august-ai-survey-2025#when-it-comes-to-your-personal-life-what-types-of-tasks-do-you-use-ai-for
-2025-064c_q12,1,Yes (please describe):,0.28759321512988706,28.76,271.1752024954436,318,false,https://reports.verasight.io/reports/august-ai-survey-2025#are-there-any-tasks-that-ai-now-does-for-you-that-you-used-to-do-yourself
-2025-064c_q12,2,No,0.712406784870113,71.24,671.7371759240942,703,false,https://reports.verasight.io/reports/august-ai-survey-2025#are-there-any-tasks-that-ai-now-does-for-you-that-you-used-to-do-yourself
+2025-064c_q1,1,"Conducted a search on a search engine (e.g., Google, Bing)",0.8676787630614385,86.77,1318.0040410903532,1357,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q1,2,"Asked a question to an AI chatbot (e.g., ChatGPT, Microsoft Copilot, Google Gemini)",0.5871231187584449,58.71,891.8400173940968,941,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q1,3,Traded cryptocurrency,0.11177030210014448,11.18,169.77908889012306,189,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q1,4,Rode in a self-driving car,0.03812696426242512,3.81,57.91485871462499,56,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q1,5,Used a virtual reality headset,0.07452382830958797,7.45,113.20169520226654,141,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q1,6,Watched television,0.8973105578678254,89.73,1363.0147374012558,1396,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q1,7,Read a newspaper,0.29673486475212135,29.67,450.7402595584819,520,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q1,8,None of the above,0.0146241218749957,1.46,22.21404112811894,12,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q10,1,ChatGPT,0.46487152629309725,46.49,665.9526335168164,725,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q10,2,None of the above,0.2876451656633274,28.76,412.0666566080414,376,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q10,3,Microsoft Copilot,0.18240630944402697,18.24,261.3065229289713,301,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q10,4,Google Gemini,0.3739311226898976,37.39,535.6757766924017,569,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q10,5,Claude AI,0.03263961093853453,3.26,46.757939843742406,56,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q10,6,Grok,0.06892219937415163,6.89,98.73463437734516,119,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q10,7,Deepseek,0.02522662981708706,2.52,36.13845893166382,36,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q10,8,Perplexity,0.03152378569113569,3.15,45.15946215685284,60,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q10,9,Llama by Meta,0.02118841373033635,2.12,30.35350441073226,42,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q11,1,Personal organization,0.29922830740334566,29.92,282.1460750241412,308,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q11,2,Managing your calendar and scheduling,0.20163962672962785,20.16,190.12850002326118,233,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q11,3,"Entertainment (e.g., storytelling, games, music)",0.30011526915108044,30.01,282.982402235265,321,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q11,4,"Writing or editing personal messages, emails, or social media posts",0.453826111814732,45.38,427.91825848012,511,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q11,5,"Getting recommendations (e.g., movies, restaurants, gifts)",0.3979641326983502,39.8,375.2453068882699,431,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q11,6,Planning a trip,0.22716181790335474,22.72,214.19369000535815,245,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q11,7,Getting advice on health and fitness,0.34698841401623887,34.7,327.17967074407505,384,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q11,8,Other (please specify):,0.16827517951030677,16.83,158.66874974103803,147,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q11,9,I do not use AI for my personal life,0.06656142668043695,6.66,62.761593142248486,59,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q12,1,Yes (please describe):,0.28759321512988706,28.76,271.1752024954436,318,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q12,2,No,0.712406784870113,71.24,671.7371759240942,703,false,https://github.com/Verasight/verasight-report-2025-064b
 2025-064c_q13,1,I used an AI tool for mental-health or emotional-support purposes in the past 30 days,0.10670030495184844,10.67,162.07776322186123,195,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-best-describes-you
 2025-064c_q13,2,"I have used an AI for that before, but not in the past 30 days",0.10957619473102792,10.96,166.44623979643495,158,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-best-describes-you
 2025-064c_q13,3,I’ve never used an AI for mental-health or emotional-support purposes,0.7441067950612554,74.41,1130.298221698071,1118,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-best-describes-you
@@ -166,30 +166,30 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2025-064c_q29,9,Nespresso,0.13653694849750456,13.65,202.0760999436706,238,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-coffee-brands-have-you-consumed-in-the-last-year
 2025-064c_q29,10,Lavazza,0.09240725657980112,9.24,136.76369819032237,149,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-coffee-brands-have-you-consumed-in-the-last-year
 2025-064c_q29,11,Illy,0.04683379068319625,4.68,69.31449597331147,73,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-coffee-brands-have-you-consumed-in-the-last-year
-2025-064c_q2_1,1,"Yes, use this",0.6974626038163548,69.75,1059.4456951970656,1331,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-whether-or-not-you-ever-use-the-following-websites-or-apps-facebook
-2025-064c_q2_1,2,"No, don’t use this",0.30253739618364495,30.25,459.55430480296644,188,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-whether-or-not-you-ever-use-the-following-websites-or-apps-facebook
-2025-064c_q2_10,1,"Yes, use this",0.020851799856214263,2.09,31.67388398159014,44,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-whether-or-not-you-ever-use-the-following-websites-or-apps-bereal
-2025-064c_q2_10,2,"No, don’t use this",0.9791482001437857,97.91,1487.326116018442,1475,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-whether-or-not-you-ever-use-the-following-websites-or-apps-bereal
-2025-064c_q2_11,1,"Yes, use this",0.4581717418577366,45.82,695.9628758819167,739,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-whether-or-not-you-ever-use-the-following-websites-or-apps-reddit
-2025-064c_q2_11,2,"No, don’t use this",0.5418282581422632,54.18,823.0371241181153,780,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-whether-or-not-you-ever-use-the-following-websites-or-apps-reddit
-2025-064c_q2_2,1,"Yes, use this",0.9154828716884004,91.55,1390.6184820947096,1413,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-whether-or-not-you-ever-use-the-following-websites-or-apps-youtube
-2025-064c_q2_2,2,"No, don’t use this",0.08451712831159948,8.45,128.38151790532234,106,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-whether-or-not-you-ever-use-the-following-websites-or-apps-youtube
-2025-064c_q2_3,1,"Yes, use this",0.3778957725547396,37.79,574.0236785106616,670,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-whether-or-not-you-ever-use-the-following-websites-or-apps-x-formerly-twitter
-2025-064c_q2_3,2,"No, don’t use this",0.6221042274452603,62.21,944.9763214893704,849,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-whether-or-not-you-ever-use-the-following-websites-or-apps-x-formerly-twitter
-2025-064c_q2_4,1,"Yes, use this",0.6591645801068636,65.92,1001.2709971823471,1098,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-whether-or-not-you-ever-use-the-following-websites-or-apps-instagram
-2025-064c_q2_4,2,"No, don’t use this",0.34083541989313626,34.08,517.729002817685,421,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-whether-or-not-you-ever-use-the-following-websites-or-apps-instagram
-2025-064c_q2_5,1,"Yes, use this",0.29527214462401496,29.53,448.5183876838883,498,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-whether-or-not-you-ever-use-the-following-websites-or-apps-snapchat
-2025-064c_q2_5,2,"No, don’t use this",0.7047278553759849,70.47,1070.4816123161438,1021,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-whether-or-not-you-ever-use-the-following-websites-or-apps-snapchat
-2025-064c_q2_6,1,"Yes, use this",0.34103782897568957,34.1,518.0364622140835,580,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-whether-or-not-you-ever-use-the-following-websites-or-apps-whatsapp
-2025-064c_q2_6,2,"No, don’t use this",0.6589621710243103,65.9,1000.9635377859486,939,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-whether-or-not-you-ever-use-the-following-websites-or-apps-whatsapp
-2025-064c_q2_7,1,"Yes, use this",0.4587404581080493,45.87,696.8267558661418,777,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-whether-or-not-you-ever-use-the-following-websites-or-apps-linkedin
-2025-064c_q2_7,2,"No, don’t use this",0.5412595418919505,54.13,822.1732441338903,742,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-whether-or-not-you-ever-use-the-following-websites-or-apps-linkedin
-2025-064c_q2_8,1,"Yes, use this",0.4287737216250517,42.88,651.3072831484674,704,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-whether-or-not-you-ever-use-the-following-websites-or-apps-pinterest
-2025-064c_q2_8,2,"No, don’t use this",0.5712262783749482,57.12,867.6927168515648,815,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-whether-or-not-you-ever-use-the-following-websites-or-apps-pinterest
-2025-064c_q2_9,1,"Yes, use this",0.3301626419501005,33.02,501.51705312221327,719,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-whether-or-not-you-ever-use-the-following-websites-or-apps-tiktok
-2025-064c_q2_9,2,"No, don’t use this",0.6698373580498994,66.98,1017.4829468778188,800,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-whether-or-not-you-ever-use-the-following-websites-or-apps-tiktok
-2025-064c_q3,1,Yes,0.6207454762472139,62.07,942.9123784195378,1021,false,https://reports.verasight.io/reports/august-ai-survey-2025#have-you-used-artificial-intelligence-ai-tools-in-your-work-or-personal-life-at-all-in-the-past-month
-2025-064c_q3,2,No,0.379254523752786,37.93,576.0876215804942,498,false,https://reports.verasight.io/reports/august-ai-survey-2025#have-you-used-artificial-intelligence-ai-tools-in-your-work-or-personal-life-at-all-in-the-past-month
+2025-064c_q2_1,1,"Yes, use this",0.6974626038163548,69.75,1059.4456951970656,1331,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q2_1,2,"No, don’t use this",0.30253739618364495,30.25,459.55430480296644,188,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q2_10,1,"Yes, use this",0.020851799856214263,2.09,31.67388398159014,44,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q2_10,2,"No, don’t use this",0.9791482001437857,97.91,1487.326116018442,1475,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q2_11,1,"Yes, use this",0.4581717418577366,45.82,695.9628758819167,739,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q2_11,2,"No, don’t use this",0.5418282581422632,54.18,823.0371241181153,780,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q2_2,1,"Yes, use this",0.9154828716884004,91.55,1390.6184820947096,1413,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q2_2,2,"No, don’t use this",0.08451712831159948,8.45,128.38151790532234,106,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q2_3,1,"Yes, use this",0.3778957725547396,37.79,574.0236785106616,670,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q2_3,2,"No, don’t use this",0.6221042274452603,62.21,944.9763214893704,849,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q2_4,1,"Yes, use this",0.6591645801068636,65.92,1001.2709971823471,1098,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q2_4,2,"No, don’t use this",0.34083541989313626,34.08,517.729002817685,421,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q2_5,1,"Yes, use this",0.29527214462401496,29.53,448.5183876838883,498,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q2_5,2,"No, don’t use this",0.7047278553759849,70.47,1070.4816123161438,1021,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q2_6,1,"Yes, use this",0.34103782897568957,34.1,518.0364622140835,580,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q2_6,2,"No, don’t use this",0.6589621710243103,65.9,1000.9635377859486,939,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q2_7,1,"Yes, use this",0.4587404581080493,45.87,696.8267558661418,777,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q2_7,2,"No, don’t use this",0.5412595418919505,54.13,822.1732441338903,742,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q2_8,1,"Yes, use this",0.4287737216250517,42.88,651.3072831484674,704,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q2_8,2,"No, don’t use this",0.5712262783749482,57.12,867.6927168515648,815,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q2_9,1,"Yes, use this",0.3301626419501005,33.02,501.51705312221327,719,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q2_9,2,"No, don’t use this",0.6698373580498994,66.98,1017.4829468778188,800,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q3,1,Yes,0.6207454762472139,62.07,942.9123784195378,1021,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q3,2,No,0.379254523752786,37.93,576.0876215804942,498,false,https://github.com/Verasight/verasight-report-2025-064b
 2025-064c_q30_1,0,Not at all likely 0,0.2175584557019572,21.76,299.51161395889267,260,false,https://reports.verasight.io/reports/august-ai-survey-2025#starbucks
 2025-064c_q30_1,1,1,0.03159564811417398,3.16,43.497567264025946,36,false,https://reports.verasight.io/reports/august-ai-survey-2025#starbucks
 2025-064c_q30_1,2,2,0.03518482167677687,3.52,48.438764162327466,42,false,https://reports.verasight.io/reports/august-ai-survey-2025#starbucks
@@ -313,124 +313,124 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2025-064c_q33,4,Somewhat agree,0.14919153419413989,14.92,226.6219404409033,263,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-statement-i-trust-facebook-to-handle-my-personal-data-responsibly
 2025-064c_q33,5,Strongly agree,0.05296066733266905,5.3,80.44725367832599,109,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-statement-i-trust-facebook-to-handle-my-personal-data-responsibly
 2025-064c_q33,6,Don't know/not sure,0.028070438694078083,2.81,42.63899637630551,27,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-statement-i-trust-facebook-to-handle-my-personal-data-responsibly
-2025-064c_q4,1,Several times a day,0.14738306792065414,14.74,223.8748801714784,261,false,https://reports.verasight.io/reports/august-ai-survey-2025#roughly-how-often-do-you-use-ai-tools
-2025-064c_q4,2,About once a day,0.10407523282277292,10.41,158.09027865779544,179,false,https://reports.verasight.io/reports/august-ai-survey-2025#roughly-how-often-do-you-use-ai-tools
-2025-064c_q4,3,A few times a week,0.24304755221937427,24.3,369.18923182123734,386,false,https://reports.verasight.io/reports/august-ai-survey-2025#roughly-how-often-do-you-use-ai-tools
-2025-064c_q4,4,Less than once a week,0.13694247586457348,13.69,208.01562083829154,207,false,https://reports.verasight.io/reports/august-ai-survey-2025#roughly-how-often-do-you-use-ai-tools
-2025-064c_q4,5,Less than once a month,0.1516255717424301,15.16,230.31924347675624,206,false,https://reports.verasight.io/reports/august-ai-survey-2025#roughly-how-often-do-you-use-ai-tools
-2025-064c_q4,6,Never,0.21692609943019495,21.69,329.51074503447313,280,false,https://reports.verasight.io/reports/august-ai-survey-2025#roughly-how-often-do-you-use-ai-tools
-2025-064c_q5,1,I don’t need it,0.46666604428714903,46.67,268.84053152576126,219,false,https://reports.verasight.io/reports/august-ai-survey-2025#what-are-your-main-reasons-for-not-using-ai-products-today
-2025-064c_q5,2,I don’t know how to use it,0.24550023160881665,24.55,141.42964452498364,131,false,https://reports.verasight.io/reports/august-ai-survey-2025#what-are-your-main-reasons-for-not-using-ai-products-today
-2025-064c_q5,3,I don’t trust it,0.44193728009236627,44.19,254.59459657616398,218,false,https://reports.verasight.io/reports/august-ai-survey-2025#what-are-your-main-reasons-for-not-using-ai-products-today
-2025-064c_q5,4,It’s too expensive,0.03532764634993534,3.53,20.35181976177108,20,false,https://reports.verasight.io/reports/august-ai-survey-2025#what-are-your-main-reasons-for-not-using-ai-products-today
-2025-064c_q5,5,I’m concerned about privacy,0.33145025839082076,33.15,190.94439102860818,167,false,https://reports.verasight.io/reports/august-ai-survey-2025#what-are-your-main-reasons-for-not-using-ai-products-today
-2025-064c_q5,6,I’m concerned about impacts to the environment,0.13432062474980302,13.43,77.3804492413201,70,false,https://reports.verasight.io/reports/august-ai-survey-2025#what-are-your-main-reasons-for-not-using-ai-products-today
-2025-064c_q5,7,I’m concerned about impacts to society,0.2751298303747733,27.51,158.49888960644796,140,false,https://reports.verasight.io/reports/august-ai-survey-2025#what-are-your-main-reasons-for-not-using-ai-products-today
-2025-064c_q5,8,Other (please specify):,0.03424490035481281,3.42,19.728063196665136,14,false,https://reports.verasight.io/reports/august-ai-survey-2025#what-are-your-main-reasons-for-not-using-ai-products-today
-2025-064c_q6_1,1,Strongly agree,0.14290830672256938,14.29,217.0777179115875,256,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-m-excited-about-the-possibilities-ai-brings-to-my-life
-2025-064c_q6_1,2,Somewhat agree,0.28355125829643046,28.36,430.714361352287,497,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-m-excited-about-the-possibilities-ai-brings-to-my-life
-2025-064c_q6_1,3,Neutral,0.27885065534333514,27.89,423.5741454665351,384,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-m-excited-about-the-possibilities-ai-brings-to-my-life
-2025-064c_q6_1,4,Somewhat disagree,0.15025659313355938,15.03,228.23976496988155,192,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-m-excited-about-the-possibilities-ai-brings-to-my-life
-2025-064c_q6_1,5,Strongly disagree,0.14443318650410553,14.44,219.39401029974096,190,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-m-excited-about-the-possibilities-ai-brings-to-my-life
-2025-064c_q6_2,1,Strongly agree,0.13125420396005605,13.13,199.37513581532937,229,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-m-excited-about-the-possibilities-ai-brings-to-my-work
-2025-064c_q6_2,2,Somewhat agree,0.2248057026495856,22.48,341.4798623247278,399,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-m-excited-about-the-possibilities-ai-brings-to-my-work
-2025-064c_q6_2,3,Neutral,0.3400332565690476,34,516.5105167283942,483,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-m-excited-about-the-possibilities-ai-brings-to-my-work
-2025-064c_q6_2,4,Somewhat disagree,0.13746928297551567,13.75,208.81584083981272,185,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-m-excited-about-the-possibilities-ai-brings-to-my-work
-2025-064c_q6_2,5,Strongly disagree,0.16643755384579495,16.64,252.8186442917679,223,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-m-excited-about-the-possibilities-ai-brings-to-my-work
-2025-064c_q6_3,1,Strongly agree,0.16688721851586266,16.69,253.50168492560078,247,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-feel-anxious-about-the-rise-of-ai
-2025-064c_q6_3,2,Somewhat agree,0.32952133587168614,32.95,500.5429091891019,507,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-feel-anxious-about-the-rise-of-ai
-2025-064c_q6_3,3,Neutral,0.2860804779694985,28.61,434.5562460356774,419,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-feel-anxious-about-the-rise-of-ai
-2025-064c_q6_3,4,Somewhat disagree,0.11655874390652184,11.66,177.05273199401043,198,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-feel-anxious-about-the-rise-of-ai
-2025-064c_q6_3,5,Strongly disagree,0.10095222373643074,10.1,153.34642785564156,148,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-feel-anxious-about-the-rise-of-ai
-2025-064c_q6_4,1,Strongly agree,0.1076581610867897,10.77,163.53274669083703,197,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-feel-confident-i-can-keep-up-with-changes-driven-by-ai
-2025-064c_q6_4,2,Somewhat agree,0.29052522976241135,29.05,441.3078240091122,483,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-feel-confident-i-can-keep-up-with-changes-driven-by-ai
-2025-064c_q6_4,3,Neutral,0.3368687210371849,33.69,511.70358725549477,465,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-feel-confident-i-can-keep-up-with-changes-driven-by-ai
-2025-064c_q6_4,4,Somewhat disagree,0.1536660198755707,15.37,233.41868419099683,232,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-feel-confident-i-can-keep-up-with-changes-driven-by-ai
-2025-064c_q6_4,5,Strongly disagree,0.11128186823804323,11.13,169.03715785359125,142,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-feel-confident-i-can-keep-up-with-changes-driven-by-ai
-2025-064c_q6_5,1,Strongly agree,0.048568755961082365,4.86,73.77594030488568,83,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-feel-left-behind-by-ai
-2025-064c_q6_5,2,Somewhat agree,0.18048210643152995,18.05,274.15231966949983,268,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-feel-left-behind-by-ai
-2025-064c_q6_5,3,Neutral,0.33259726251356714,33.26,505.2152417581192,457,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-feel-left-behind-by-ai
-2025-064c_q6_5,4,Somewhat disagree,0.24339388872484696,24.34,369.7153169730504,411,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-feel-left-behind-by-ai
-2025-064c_q6_5,5,Strongly disagree,0.1949579863689735,19.5,296.141181294477,300,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-feel-left-behind-by-ai
-2025-064c_q6_6,1,Strongly agree,0.07544857982231384,7.54,114.60639275009717,127,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-trust-tech-companies-to-develop-ai-responsibly
-2025-064c_q6_6,2,Somewhat agree,0.19484181866636394,19.48,295.9647225542131,329,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-trust-tech-companies-to-develop-ai-responsibly
-2025-064c_q6_6,3,Neutral,0.2710416729166427,27.1,411.712301160389,413,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-trust-tech-companies-to-develop-ai-responsibly
-2025-064c_q6_6,4,Somewhat disagree,0.22972270284255805,22.97,348.9487856178531,350,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-trust-tech-companies-to-develop-ai-responsibly
-2025-064c_q6_6,5,Strongly disagree,0.22894522575212134,22.89,347.7677979174797,300,false,https://reports.verasight.io/reports/august-ai-survey-2025#please-indicate-how-much-you-agree-or-disagree-with-the-following-i-trust-tech-companies-to-develop-ai-responsibly
-2025-064c_q7_1,1,Extremely concerned,0.1790517571615617,17.91,271.979619128418,296,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-environmental-impacts-of-ai-supporting-data-centers
-2025-064c_q7_1,2,Very concerned,0.20468545959813594,20.47,310.9172131295751,290,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-environmental-impacts-of-ai-supporting-data-centers
-2025-064c_q7_1,3,Somewhat concerned,0.32034403398000416,32.03,486.60258761563665,493,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-environmental-impacts-of-ai-supporting-data-centers
-2025-064c_q7_1,4,Not at all concerned,0.18704182510555645,18.7,284.1165323353463,307,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-environmental-impacts-of-ai-supporting-data-centers
-2025-064c_q7_1,5,I’m unfamiliar with this topic,0.10887692415474165,10.89,165.38404779105608,133,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-environmental-impacts-of-ai-supporting-data-centers
-2025-064c_q7_10,1,Extremely concerned,0.28003833334279615,28,425.3782283477164,463,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-cyberattacks-with-ai
-2025-064c_q7_10,2,Very concerned,0.28039037077915974,28.04,425.91297321355273,433,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-cyberattacks-with-ai
-2025-064c_q7_10,3,Somewhat concerned,0.2959209574996094,29.59,449.5039344419162,437,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-cyberattacks-with-ai
-2025-064c_q7_10,4,Not at all concerned,0.08387034278982002,8.39,127.39905069773931,117,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-cyberattacks-with-ai
-2025-064c_q7_10,5,I’m unfamiliar with this topic,0.059779995588614555,5.98,90.80581329910744,69,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-cyberattacks-with-ai
-2025-064c_q7_11,1,Extremely concerned,0.1518786824287949,15.19,230.70371860934435,236,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-foreign-nations-winning-the-ai-race
-2025-064c_q7_11,2,Very concerned,0.17487621297931624,17.49,265.636967515587,277,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-foreign-nations-winning-the-ai-race
-2025-064c_q7_11,3,Somewhat concerned,0.31506735628498467,31.51,478.5873141969019,502,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-foreign-nations-winning-the-ai-race
-2025-064c_q7_11,4,Not at all concerned,0.2552772543918075,25.53,387.7661494211638,387,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-foreign-nations-winning-the-ai-race
-2025-064c_q7_11,5,I’m unfamiliar with this topic,0.10290049391509658,10.29,156.30585025703502,117,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-foreign-nations-winning-the-ai-race
-2025-064c_q7_12,1,Extremely concerned,0.18978764238227258,18.98,288.2874287786782,285,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-humans-developing-relationships-with-ai
-2025-064c_q7_12,2,Very concerned,0.18002587333950015,18,273.45930160270655,270,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-humans-developing-relationships-with-ai
-2025-064c_q7_12,3,Somewhat concerned,0.3044834308682787,30.45,462.5103314889252,476,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-humans-developing-relationships-with-ai
-2025-064c_q7_12,4,Not at all concerned,0.25237316537938176,25.24,383.35483821128906,401,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-humans-developing-relationships-with-ai
-2025-064c_q7_12,5,I’m unfamiliar with this topic,0.07332988803056664,7.33,111.3880999184331,87,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-humans-developing-relationships-with-ai
-2025-064c_q7_13,1,Extremely concerned,0.096271525313503,9.63,75.67060796765874,69,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-other-please-specify
-2025-064c_q7_13,2,Very concerned,0.04218002104649562,4.22,33.154017517465114,37,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-other-please-specify
-2025-064c_q7_13,3,Somewhat concerned,0.13768641242233665,13.77,108.22322075978033,91,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-other-please-specify
-2025-064c_q7_13,4,Not at all concerned,0.23632085077382955,23.63,185.75110756016912,179,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-other-please-specify
-2025-064c_q7_13,5,I’m unfamiliar with this topic,0.4875411904438352,48.75,383.2133974196685,369,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-other-please-specify
-2025-064c_q7_2,1,Extremely concerned,0.22936769771112636,22.94,348.40953282320834,351,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-ethical-sourcing-of-ai-training-data
-2025-064c_q7_2,2,Very concerned,0.22706919458762548,22.71,344.91810657861043,364,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-ethical-sourcing-of-ai-training-data
-2025-064c_q7_2,3,Somewhat concerned,0.3221401772975529,32.21,489.3309293149932,507,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-ethical-sourcing-of-ai-training-data
-2025-064c_q7_2,4,Not at all concerned,0.12743254266947734,12.74,193.57003231494022,178,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-ethical-sourcing-of-ai-training-data
-2025-064c_q7_2,5,I’m unfamiliar with this topic,0.09399038773421778,9.4,142.77139896827984,119,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-ethical-sourcing-of-ai-training-data
-2025-064c_q7_3,1,Extremely concerned,0.32561214067725985,32.56,494.60484168876826,504,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-misinformation-in-ai-output
-2025-064c_q7_3,2,Very concerned,0.2548692575628039,25.49,387.14640223790735,403,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-misinformation-in-ai-output
-2025-064c_q7_3,3,Somewhat concerned,0.2759964114276868,27.6,419.2385489586652,439,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-misinformation-in-ai-output
-2025-064c_q7_3,4,Not at all concerned,0.09168886974585169,9.17,139.27539314395167,121,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-misinformation-in-ai-output
-2025-064c_q7_3,5,I’m unfamiliar with this topic,0.05183332058639757,5.18,78.73481397073958,52,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-misinformation-in-ai-output
-2025-064c_q7_4,1,Extremely concerned,0.2491439646199696,24.91,378.44968225774187,372,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-bias-in-ai-model-training-and-output
-2025-064c_q7_4,2,Very concerned,0.22525066902209867,22.53,342.15576624457515,352,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-bias-in-ai-model-training-and-output
-2025-064c_q7_4,3,Somewhat concerned,0.3368378310579184,33.68,511.65666537698894,539,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-bias-in-ai-model-training-and-output
-2025-064c_q7_4,4,Not at all concerned,0.11577522272581209,11.58,175.8625633205123,156,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-bias-in-ai-model-training-and-output
-2025-064c_q7_4,5,I’m unfamiliar with this topic,0.0729923125742011,7.3,110.87532280021382,100,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-bias-in-ai-model-training-and-output
-2025-064c_q7_5,1,Extremely concerned,0.23850350543308949,23.85,362.28682475287064,351,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-regulation-of-ai-development-and-use
-2025-064c_q7_5,2,Very concerned,0.2318836441897302,23.19,352.23125552420765,377,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-regulation-of-ai-development-and-use
-2025-064c_q7_5,3,Somewhat concerned,0.3281972306888358,32.82,498.53159341635217,520,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-regulation-of-ai-development-and-use
-2025-064c_q7_5,4,Not at all concerned,0.14668298342313446,14.67,222.811451819746,204,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-regulation-of-ai-development-and-use
-2025-064c_q7_5,5,I’m unfamiliar with this topic,0.054732636265209904,5.47,83.13887448685561,67,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-regulation-of-ai-development-and-use
-2025-064c_q7_6,1,Extremely concerned,0.262308704349746,26.23,398.44692190727267,410,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-ai-taking-away-jobs-from-humans
-2025-064c_q7_6,2,Very concerned,0.2610883721628651,26.11,396.59323731540053,395,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-ai-taking-away-jobs-from-humans
-2025-064c_q7_6,3,Somewhat concerned,0.2998645434291262,29.99,455.4942414688524,471,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-ai-taking-away-jobs-from-humans
-2025-064c_q7_6,4,Not at all concerned,0.1392857725513986,13.93,211.57508850557898,205,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-ai-taking-away-jobs-from-humans
-2025-064c_q7_6,5,I’m unfamiliar with this topic,0.03745260750686394,3.75,56.89051080292753,38,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-ai-taking-away-jobs-from-humans
-2025-064c_q7_7,1,Extremely concerned,0.3041587662799854,30.42,462.01716597930766,457,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-loss-of-human-creativity-and-interaction
-2025-064c_q7_7,2,Very concerned,0.2510096990652546,25.1,381.2837328801299,406,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-loss-of-human-creativity-and-interaction
-2025-064c_q7_7,3,Somewhat concerned,0.28555731576237037,28.56,433.7615626430498,433,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-loss-of-human-creativity-and-interaction
-2025-064c_q7_7,4,Not at all concerned,0.11345857606689203,11.35,172.34357704561265,175,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-loss-of-human-creativity-and-interaction
-2025-064c_q7_7,5,I’m unfamiliar with this topic,0.04581564282549741,4.58,69.59396145193205,48,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-loss-of-human-creativity-and-interaction
-2025-064c_q7_8,1,Extremely concerned,0.2831877522744095,28.32,430.1621957048372,434,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-loss-of-human-oversight-in-ai-use
-2025-064c_q7_8,2,Very concerned,0.28211340312954974,28.21,428.53025935379515,421,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-loss-of-human-oversight-in-ai-use
-2025-064c_q7_8,3,Somewhat concerned,0.28010656585067273,28.01,425.4818735271809,462,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-loss-of-human-oversight-in-ai-use
-2025-064c_q7_8,4,Not at all concerned,0.10986723603890108,10.99,166.8883315430943,147,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-loss-of-human-oversight-in-ai-use
-2025-064c_q7_8,5,I’m unfamiliar with this topic,0.04472504270646685,4.47,67.93733987112459,55,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-loss-of-human-oversight-in-ai-use
-2025-064c_q7_9,1,Extremely concerned,0.20213847385359893,20.21,307.0483417836233,323,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-ai-dominating-humans
-2025-064c_q7_9,2,Very concerned,0.1751289636395916,17.51,266.0208957685453,261,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-ai-dominating-humans
-2025-064c_q7_9,3,Somewhat concerned,0.3050304613983461,30.5,463.34127086409757,487,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-ai-dominating-humans
-2025-064c_q7_9,4,Not at all concerned,0.254685176771093,25.47,386.86678351529844,382,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-ai-dominating-humans
-2025-064c_q7_9,5,I’m unfamiliar with this topic,0.06301692433737027,6.3,95.72270806846747,66,false,https://reports.verasight.io/reports/august-ai-survey-2025#how-concerned-are-you-about-the-following-issues-surrounding-ai-ai-dominating-humans
-2025-064c_q8,1,More job opportunities,0.13697198964937615,13.7,208.0604522774068,222,false,https://reports.verasight.io/reports/august-ai-survey-2025#in-the-long-run-do-you-think-the-use-of-ai-in-the-workplace-will-lead-to
-2025-064c_q8,2,Fewer job opportunities,0.6635869868249482,66.36,1007.9886329871177,1006,false,https://reports.verasight.io/reports/august-ai-survey-2025#in-the-long-run-do-you-think-the-use-of-ai-in-the-workplace-will-lead-to
-2025-064c_q8,3,Will not make much difference,0.19944102352567553,19.94,302.9509147355076,291,false,https://reports.verasight.io/reports/august-ai-survey-2025#in-the-long-run-do-you-think-the-use-of-ai-in-the-workplace-will-lead-to
-2025-064c_q9,1,ChatGPT,0.863158865868098,86.32,1311.1383172536687,1349,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-ai-tools-have-you-heard-of
-2025-064c_q9,2,Microsoft Copilot,0.6006257807702019,60.06,912.3505609899561,945,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-ai-tools-have-you-heard-of
-2025-064c_q9,3,Google Gemini,0.7664274949326034,76.64,1164.2033648026493,1190,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-ai-tools-have-you-heard-of
-2025-064c_q9,4,Claude AI,0.21641688164511616,21.64,328.73724321893843,331,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-ai-tools-have-you-heard-of
-2025-064c_q9,5,Grok,0.3565898519779388,35.66,541.6599851545005,545,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-ai-tools-have-you-heard-of
-2025-064c_q9,6,Deepseek,0.26116688958857304,26.12,396.7125052850509,389,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-ai-tools-have-you-heard-of
-2025-064c_q9,7,Perplexity,0.1708499539393601,17.08,259.5210800338935,274,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-ai-tools-have-you-heard-of
-2025-064c_q9,8,Llama by Meta,0.1433232885994123,14.33,217.7080753825119,239,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-ai-tools-have-you-heard-of
-2025-064c_q9,9,None of the above,0.0569111274646779,5.69,86.44800261884757,63,false,https://reports.verasight.io/reports/august-ai-survey-2025#which-of-the-following-ai-tools-have-you-heard-of
+2025-064c_q4,1,Several times a day,0.14738306792065414,14.74,223.8748801714784,261,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q4,2,About once a day,0.10407523282277292,10.41,158.09027865779544,179,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q4,3,A few times a week,0.24304755221937427,24.3,369.18923182123734,386,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q4,4,Less than once a week,0.13694247586457348,13.69,208.01562083829154,207,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q4,5,Less than once a month,0.1516255717424301,15.16,230.31924347675624,206,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q4,6,Never,0.21692609943019495,21.69,329.51074503447313,280,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q5,1,I don’t need it,0.46666604428714903,46.67,268.84053152576126,219,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q5,2,I don’t know how to use it,0.24550023160881665,24.55,141.42964452498364,131,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q5,3,I don’t trust it,0.44193728009236627,44.19,254.59459657616398,218,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q5,4,It’s too expensive,0.03532764634993534,3.53,20.35181976177108,20,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q5,5,I’m concerned about privacy,0.33145025839082076,33.15,190.94439102860818,167,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q5,6,I’m concerned about impacts to the environment,0.13432062474980302,13.43,77.3804492413201,70,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q5,7,I’m concerned about impacts to society,0.2751298303747733,27.51,158.49888960644796,140,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q5,8,Other (please specify):,0.03424490035481281,3.42,19.728063196665136,14,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_1,1,Strongly agree,0.14290830672256938,14.29,217.0777179115875,256,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_1,2,Somewhat agree,0.28355125829643046,28.36,430.714361352287,497,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_1,3,Neutral,0.27885065534333514,27.89,423.5741454665351,384,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_1,4,Somewhat disagree,0.15025659313355938,15.03,228.23976496988155,192,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_1,5,Strongly disagree,0.14443318650410553,14.44,219.39401029974096,190,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_2,1,Strongly agree,0.13125420396005605,13.13,199.37513581532937,229,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_2,2,Somewhat agree,0.2248057026495856,22.48,341.4798623247278,399,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_2,3,Neutral,0.3400332565690476,34,516.5105167283942,483,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_2,4,Somewhat disagree,0.13746928297551567,13.75,208.81584083981272,185,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_2,5,Strongly disagree,0.16643755384579495,16.64,252.8186442917679,223,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_3,1,Strongly agree,0.16688721851586266,16.69,253.50168492560078,247,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_3,2,Somewhat agree,0.32952133587168614,32.95,500.5429091891019,507,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_3,3,Neutral,0.2860804779694985,28.61,434.5562460356774,419,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_3,4,Somewhat disagree,0.11655874390652184,11.66,177.05273199401043,198,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_3,5,Strongly disagree,0.10095222373643074,10.1,153.34642785564156,148,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_4,1,Strongly agree,0.1076581610867897,10.77,163.53274669083703,197,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_4,2,Somewhat agree,0.29052522976241135,29.05,441.3078240091122,483,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_4,3,Neutral,0.3368687210371849,33.69,511.70358725549477,465,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_4,4,Somewhat disagree,0.1536660198755707,15.37,233.41868419099683,232,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_4,5,Strongly disagree,0.11128186823804323,11.13,169.03715785359125,142,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_5,1,Strongly agree,0.048568755961082365,4.86,73.77594030488568,83,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_5,2,Somewhat agree,0.18048210643152995,18.05,274.15231966949983,268,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_5,3,Neutral,0.33259726251356714,33.26,505.2152417581192,457,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_5,4,Somewhat disagree,0.24339388872484696,24.34,369.7153169730504,411,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_5,5,Strongly disagree,0.1949579863689735,19.5,296.141181294477,300,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_6,1,Strongly agree,0.07544857982231384,7.54,114.60639275009717,127,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_6,2,Somewhat agree,0.19484181866636394,19.48,295.9647225542131,329,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_6,3,Neutral,0.2710416729166427,27.1,411.712301160389,413,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_6,4,Somewhat disagree,0.22972270284255805,22.97,348.9487856178531,350,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q6_6,5,Strongly disagree,0.22894522575212134,22.89,347.7677979174797,300,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_1,1,Extremely concerned,0.1790517571615617,17.91,271.979619128418,296,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_1,2,Very concerned,0.20468545959813594,20.47,310.9172131295751,290,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_1,3,Somewhat concerned,0.32034403398000416,32.03,486.60258761563665,493,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_1,4,Not at all concerned,0.18704182510555645,18.7,284.1165323353463,307,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_1,5,I’m unfamiliar with this topic,0.10887692415474165,10.89,165.38404779105608,133,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_10,1,Extremely concerned,0.28003833334279615,28,425.3782283477164,463,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_10,2,Very concerned,0.28039037077915974,28.04,425.91297321355273,433,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_10,3,Somewhat concerned,0.2959209574996094,29.59,449.5039344419162,437,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_10,4,Not at all concerned,0.08387034278982002,8.39,127.39905069773931,117,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_10,5,I’m unfamiliar with this topic,0.059779995588614555,5.98,90.80581329910744,69,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_11,1,Extremely concerned,0.1518786824287949,15.19,230.70371860934435,236,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_11,2,Very concerned,0.17487621297931624,17.49,265.636967515587,277,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_11,3,Somewhat concerned,0.31506735628498467,31.51,478.5873141969019,502,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_11,4,Not at all concerned,0.2552772543918075,25.53,387.7661494211638,387,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_11,5,I’m unfamiliar with this topic,0.10290049391509658,10.29,156.30585025703502,117,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_12,1,Extremely concerned,0.18978764238227258,18.98,288.2874287786782,285,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_12,2,Very concerned,0.18002587333950015,18,273.45930160270655,270,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_12,3,Somewhat concerned,0.3044834308682787,30.45,462.5103314889252,476,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_12,4,Not at all concerned,0.25237316537938176,25.24,383.35483821128906,401,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_12,5,I’m unfamiliar with this topic,0.07332988803056664,7.33,111.3880999184331,87,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_13,1,Extremely concerned,0.096271525313503,9.63,75.67060796765874,69,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_13,2,Very concerned,0.04218002104649562,4.22,33.154017517465114,37,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_13,3,Somewhat concerned,0.13768641242233665,13.77,108.22322075978033,91,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_13,4,Not at all concerned,0.23632085077382955,23.63,185.75110756016912,179,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_13,5,I’m unfamiliar with this topic,0.4875411904438352,48.75,383.2133974196685,369,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_2,1,Extremely concerned,0.22936769771112636,22.94,348.40953282320834,351,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_2,2,Very concerned,0.22706919458762548,22.71,344.91810657861043,364,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_2,3,Somewhat concerned,0.3221401772975529,32.21,489.3309293149932,507,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_2,4,Not at all concerned,0.12743254266947734,12.74,193.57003231494022,178,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_2,5,I’m unfamiliar with this topic,0.09399038773421778,9.4,142.77139896827984,119,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_3,1,Extremely concerned,0.32561214067725985,32.56,494.60484168876826,504,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_3,2,Very concerned,0.2548692575628039,25.49,387.14640223790735,403,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_3,3,Somewhat concerned,0.2759964114276868,27.6,419.2385489586652,439,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_3,4,Not at all concerned,0.09168886974585169,9.17,139.27539314395167,121,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_3,5,I’m unfamiliar with this topic,0.05183332058639757,5.18,78.73481397073958,52,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_4,1,Extremely concerned,0.2491439646199696,24.91,378.44968225774187,372,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_4,2,Very concerned,0.22525066902209867,22.53,342.15576624457515,352,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_4,3,Somewhat concerned,0.3368378310579184,33.68,511.65666537698894,539,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_4,4,Not at all concerned,0.11577522272581209,11.58,175.8625633205123,156,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_4,5,I’m unfamiliar with this topic,0.0729923125742011,7.3,110.87532280021382,100,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_5,1,Extremely concerned,0.23850350543308949,23.85,362.28682475287064,351,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_5,2,Very concerned,0.2318836441897302,23.19,352.23125552420765,377,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_5,3,Somewhat concerned,0.3281972306888358,32.82,498.53159341635217,520,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_5,4,Not at all concerned,0.14668298342313446,14.67,222.811451819746,204,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_5,5,I’m unfamiliar with this topic,0.054732636265209904,5.47,83.13887448685561,67,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_6,1,Extremely concerned,0.262308704349746,26.23,398.44692190727267,410,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_6,2,Very concerned,0.2610883721628651,26.11,396.59323731540053,395,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_6,3,Somewhat concerned,0.2998645434291262,29.99,455.4942414688524,471,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_6,4,Not at all concerned,0.1392857725513986,13.93,211.57508850557898,205,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_6,5,I’m unfamiliar with this topic,0.03745260750686394,3.75,56.89051080292753,38,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_7,1,Extremely concerned,0.3041587662799854,30.42,462.01716597930766,457,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_7,2,Very concerned,0.2510096990652546,25.1,381.2837328801299,406,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_7,3,Somewhat concerned,0.28555731576237037,28.56,433.7615626430498,433,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_7,4,Not at all concerned,0.11345857606689203,11.35,172.34357704561265,175,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_7,5,I’m unfamiliar with this topic,0.04581564282549741,4.58,69.59396145193205,48,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_8,1,Extremely concerned,0.2831877522744095,28.32,430.1621957048372,434,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_8,2,Very concerned,0.28211340312954974,28.21,428.53025935379515,421,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_8,3,Somewhat concerned,0.28010656585067273,28.01,425.4818735271809,462,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_8,4,Not at all concerned,0.10986723603890108,10.99,166.8883315430943,147,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_8,5,I’m unfamiliar with this topic,0.04472504270646685,4.47,67.93733987112459,55,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_9,1,Extremely concerned,0.20213847385359893,20.21,307.0483417836233,323,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_9,2,Very concerned,0.1751289636395916,17.51,266.0208957685453,261,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_9,3,Somewhat concerned,0.3050304613983461,30.5,463.34127086409757,487,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_9,4,Not at all concerned,0.254685176771093,25.47,386.86678351529844,382,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q7_9,5,I’m unfamiliar with this topic,0.06301692433737027,6.3,95.72270806846747,66,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q8,1,More job opportunities,0.13697198964937615,13.7,208.0604522774068,222,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q8,2,Fewer job opportunities,0.6635869868249482,66.36,1007.9886329871177,1006,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q8,3,Will not make much difference,0.19944102352567553,19.94,302.9509147355076,291,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q9,1,ChatGPT,0.863158865868098,86.32,1311.1383172536687,1349,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q9,2,Microsoft Copilot,0.6006257807702019,60.06,912.3505609899561,945,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q9,3,Google Gemini,0.7664274949326034,76.64,1164.2033648026493,1190,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q9,4,Claude AI,0.21641688164511616,21.64,328.73724321893843,331,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q9,5,Grok,0.3565898519779388,35.66,541.6599851545005,545,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q9,6,Deepseek,0.26116688958857304,26.12,396.7125052850509,389,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q9,7,Perplexity,0.1708499539393601,17.08,259.5210800338935,274,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q9,8,Llama by Meta,0.1433232885994123,14.33,217.7080753825119,239,false,https://github.com/Verasight/verasight-report-2025-064b
+2025-064c_q9,9,None of the above,0.0569111274646779,5.69,86.44800261884757,63,false,https://github.com/Verasight/verasight-report-2025-064b
